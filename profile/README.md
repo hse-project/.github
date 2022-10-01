@@ -14,4 +14,5 @@ It is easy to get started with HSE.
 
 * Read the [documentation](https://hse-project.github.io/) to learn more about HSE
 * [Build](https://github.com/hse-project/hse) HSE for your Linux distribution
+* Ask a question, share ideas, or read announcements in the HSE [discussions forum](https://github.com/hse-project/hse/discussions)
 * View blog posts, white papers, and other information on our [homepage](https://micron.com/hse)
